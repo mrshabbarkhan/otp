@@ -1,0 +1,16 @@
+{
+  "name": "backend-otp",
+  "version": "1.0.0",
+  "description": "i am a creating a otp api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server/app.js"
+  },
+  "author": "eskills web",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
